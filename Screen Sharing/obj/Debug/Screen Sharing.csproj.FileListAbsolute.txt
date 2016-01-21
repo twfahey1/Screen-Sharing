@@ -1,0 +1,10 @@
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing\Screen Sharing\bin\Debug\Screen Sharing.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Screen Sharing\Screen Sharing\bin\Debug\Screen Sharing.exe
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Screen Sharing\Screen Sharing\bin\Debug\Screen Sharing.pdb
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Screen Sharing\Screen Sharing\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Screen Sharing\Screen Sharing\obj\Debug\Screen Sharing.csproj.ResolveComReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Screen Sharing\Screen Sharing\obj\Debug\Screen_Sharing.Form1.resources
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Screen Sharing\Screen Sharing\obj\Debug\Screen_Sharing.Properties.Resources.resources
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Screen Sharing\Screen Sharing\obj\Debug\Screen Sharing.csproj.GenerateResource.Cache
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Screen Sharing\Screen Sharing\obj\Debug\Screen Sharing.exe
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Screen Sharing\Screen Sharing\obj\Debug\Screen Sharing.pdb
